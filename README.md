@@ -1,13 +1,13 @@
 ### main page
 
-![](src/test/image/main.png)
+![](src/test/image/main1.png)
 ### edit menu page
 
 ![](src/test/image/edit_menu.png)
 ### check history page
 
 ![](src/test/image/history1.png)
-### addd menu
+### add menu
 
 ![](src/test/image/add_menu.png)
 ### summary and selection of payment method
