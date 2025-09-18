@@ -10,6 +10,9 @@
 ### add menu
 
 ![](src/test/image/add_menu.png)
+### done add menu
+
+![](src/test/image/main2.png)
 ### summary and selection of payment method
 
 ![](src/test/image/checkbill.png)
